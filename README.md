@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-6-646cff.svg)](https://vitejs.dev)
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222.svg)](https://yifenqian1990-wq.github.io/culinary-ai/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222.svg)](https://yifenqian1990-wq.github.io/Culinary-AI/)
 
 AI 驱动的私人厨房助手：记录你的菜谱、AI 规划一周饮食、一键生成采购清单，数据只存在你的浏览器本地。
 
-🌐 **在线体验：https://yifenqian1990-wq.github.io/culinary-ai/**
+🌐 **在线体验：https://yifenqian1990-wq.github.io/Culinary-AI/**
 
 ## ✨ 功能特性
 
